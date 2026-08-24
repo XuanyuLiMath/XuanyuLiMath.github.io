@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 
-date: 07/13/2024
+date: 2024-07-13
 venue: 
 journalurl: 'https://link.springer.com/article/10.1007/s00526-024-02791-9'
 arxivurl: 'https://arxiv.org/abs/2312.02950'
