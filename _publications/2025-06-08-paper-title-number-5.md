@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Minkowski content estimates for generic area minimizing hypersurfaces"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
+category: manuscripts
+permalink: 
+excerpt: 
+date: 07/13/2024
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+journalurl: 'https://link.springer.com/article/10.1007/s00526-024-02791-9'
+arxivurl: 'https://arxiv.org/abs/2312.02950'
+citation: 'Li, X. Minkowski content estimates for generic area minimizing hypersurfaces. Calc. Var. 63, 176 (2024). https://doi.org/10.1007/s00526-024-02791-9.'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
