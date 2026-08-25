@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to Xuanyu Li's homepage!
+Welcome to my homepage!
 
 About me
 ======
