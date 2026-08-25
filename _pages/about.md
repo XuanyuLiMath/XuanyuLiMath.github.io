@@ -12,7 +12,7 @@ About me
 ======
 Currently, I am a fourth year graduate student at Cornell University, Department of Mathematics. I am very fortunate to be advised by [Xin Zhou](https://sites.google.com/cornell.edu/xinzhou) and [Daniel Stern](https://sites.google.com/view/daniel-stern/home).
 
-Please find here for a most recent [CV](files/CV.pdf)
+Please find here for a most recent [CV](files/CV.pdf).
 
 Email: xl896@cornell.edu
 
