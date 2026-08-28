@@ -35,12 +35,11 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.events %}
+{% if post.events %}
   <div class="archive__item-excerpt">
     {% for event in post.events %}
-      <div style="margin-bottom: 0.6em;">
-        <div>{{ event.venue }}</div>
-        <div style="font-size: 0.9em;">{{ event.date }}</div>
+      <div style="margin-bottom: 0.4em;">
+        {{ event.venue }}{% if event.location %}, {{ event.location }}{% endif %} — {{ event.date }}
       </div>
     {% endfor %}
   </div>
