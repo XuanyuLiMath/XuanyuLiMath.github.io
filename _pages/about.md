@@ -32,5 +32,5 @@ Honors and Rewards
 ======
 * Simons Dissertation Fellowship in Mathematics, Simons foundation
 * ICM 2026 Travel Grants for U.S. Based Graduate Students, American mathematical society
-* Robert John B¨attig Graduate Prize, Cornell
+* Robert John Bättig Graduate Prize, Cornell
 * Guo MoRuo Scholarship (highest distinction at USTC), USTC
