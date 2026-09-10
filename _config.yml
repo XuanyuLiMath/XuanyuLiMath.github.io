@@ -23,7 +23,7 @@ repository               : "XuanyuLiMath/XuanyuLiMath.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1610.jpeg"
+  avatar           : "profile.png"
   name             : "Xuanyu Li/李轩宇"
   pronouns         : # example: "she/her"  
   bio              : "Ph. D. Candidate"
