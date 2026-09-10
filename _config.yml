@@ -24,11 +24,11 @@ repository               : "XuanyuLiMath/XuanyuLiMath.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xuanyu Li"
+  name             : "Xuanyu Li/李轩宇"
   pronouns         : # example: "she/her"  
   bio              : "Ph. D. Candidate"
   location         : "Ithaca, NY 14850, USA"
-  employer         : "Cornell University, "
+  employer         : "Cornell University "
   uri              : # URL
   email            : "xl896@cornell.edu" 
 
